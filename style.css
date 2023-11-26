@@ -1,0 +1,17 @@
+#note {
+    color: black;
+}
+
+body {
+    text-align: center;
+    background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCoep5Sq3Z9dLxD1ZbJ6JY4m_gyT6bE2kuariGWY8YL841kdth");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+canvas {
+    background-color: black;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
