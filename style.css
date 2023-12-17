@@ -3,6 +3,7 @@
 }
 
 body {
+    margin: 0px;
     text-align: center;
     background-image: url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCoep5Sq3Z9dLxD1ZbJ6JY4m_gyT6bE2kuariGWY8YL841kdth");
     background-size: cover;
